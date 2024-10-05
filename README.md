@@ -3,6 +3,11 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 
 Data Scientist
 --------------
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
+<br><br>
 
 Passionate Data Scientist | Problem Solver | AI Enthusiast Welcome to my GitHub profile! I’m a data scientist with a deep passion for uncovering insights hidden in data and using them to drive impactful solutions. My expertise spans across machine learning, data analysis, statistical modeling, and AI, allowing me to tackle complex problems and derive actionable outcomes from diverse datasets. With a strong foundation in Python, SQL, and various machine learning frameworks (such as TensorFlow, PyTorch, and scikit-learn), I thrive on building end-to-end data-driven solutions. Whether it's training robust predictive models, automating workflows, or crafting insightful visualizations, I am always on the lookout for innovative ways to apply cutting-edge techniques to real-world challenges.
 
